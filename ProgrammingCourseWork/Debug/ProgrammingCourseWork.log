@@ -1,0 +1,7 @@
+﻿  BinaryTree.cpp
+  BinaryTreeSort.cpp
+  GUI.cpp
+  Sorting.cpp
+c:\users\misha\source\repos\programmingcoursework\programmingcoursework\sorting.cpp(17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  ProgrammingCourseWork.vcxproj -> C:\Users\Misha\source\repos\ProgrammingCourseWork\Debug\ProgrammingCourseWork.exe
